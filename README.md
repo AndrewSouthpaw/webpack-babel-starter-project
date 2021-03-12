@@ -14,7 +14,7 @@ Create a new project and initialize git and npm.
 $ mkdir myProject
 $ cd myProject
 $ git init
-$ npm init
+$ yarn init
 ```
 
 Create a `public` folder and stick in a skeleton `index.html` HTML file that will load a JS file that we expect to eventually produce using Webpack.
