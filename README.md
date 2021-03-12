@@ -138,7 +138,7 @@ Add a build script to your `package.json` to run your webpack dev server:
   ...
   "scripts": {
     ...
-    "start": "webpack-dev-server"
+    "start": "webpack serve"
   },
 }
 ``` 
